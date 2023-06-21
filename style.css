@@ -183,7 +183,7 @@ main{
 /* Seccion Home*/
 
 body{
-    background: #dad6d3;
+    background: #bebcba;
 }
 
 #home{
@@ -291,12 +291,12 @@ animation: typing 1.5s steps(10)infinite;
 }
 
 #home .home-row h1 span{
-    color: rgba(255, 255, 255, 0.507);
+    color: rgba(197, 193, 193, 0.507);
     
 }
 
 #home .home-row p{
-    color: rgb(156, 156, 156);
+    color: rgb(177, 169, 169);
     font-size: 30px;
     font-weight: 500;
     position: relative;
