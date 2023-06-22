@@ -393,6 +393,11 @@ flex-basis: 70%;
     margin-top: -10px;
 }
 
+#my-skills{
+    font-family:'Poppins', 'sans-serif';
+    color: #040b14;
+}
+
 #about .about-col .info-col p{
     color: var(--textColor);
     font-size: 15px;
